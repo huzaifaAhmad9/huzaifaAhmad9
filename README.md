@@ -1,19 +1,25 @@
 # Hello, I'm Huzaifa Ahmad 👋
 ## Passionate Cross-Platform Developer | Flutter Enthusiast | AI/ML Learner
 
-![Profile Views](https://komarev.com/ghpvc/?username=huzaifaAhmad9&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/huzaifaAhmad9?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/huzaifaAhmad9?style=social)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=huzaifaAhmad9&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/huzaifaAhmad9?style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/huzaifaAhmad9?style=social" alt="GitHub Stars" />
+</p>
 
 ---
 
-Welcome to my GitHub profile! I'm a dedicated cross-platform app developer focused on building seamless, high-performance applications. I thrive in dynamic environments, constantly pushing my boundaries in software development and staying updated with the latest industry trends.
+<p align="center">
+  Welcome to my GitHub profile! I'm a dedicated cross-platform app developer focused on building seamless, high-performance applications. I thrive in dynamic environments, constantly pushing my boundaries in software development and staying updated with the latest industry trends.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-Hi there! I'm Huzaifa Ahmad, a passionate developer with a knack for creating efficient and user-friendly applications using Flutter and Android. My journey in the tech world has been driven by an insatiable curiosity and a commitment to continuous learning.
+<p align="center">
+  Hi there! I'm Huzaifa Ahmad, a passionate developer with a knack for creating efficient and user-friendly applications using Flutter and Android. My journey in the tech world has been driven by an insatiable curiosity and a commitment to continuous learning.
+</p>
 
 - 🌱 I’m always expanding my knowledge in cross-platform development and exploring new technologies.
 - 💼 Currently diving deeper into AI/ML and Python to broaden my skill set.
@@ -49,6 +55,7 @@ Hi there! I'm Huzaifa Ahmad, a passionate developer with a knack for creating ef
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Science-4CAF50?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF5733?style=for-the-badge&logo=ai&logoColor=white" />
 </p>
 
 ---
@@ -57,7 +64,7 @@ Hi there! I'm Huzaifa Ahmad, a passionate developer with a knack for creating ef
 
 - **Flutter:** Exploring advanced techniques and new libraries to enhance app performance.
 - **AI/ML:** Delving into machine learning algorithms and data processing with Python.
-  
+
 ---
 
 ## 📈 GitHub Stats
@@ -65,6 +72,7 @@ Hi there! I'm Huzaifa Ahmad, a passionate developer with a knack for creating ef
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huzaifaAhmad9&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifaAhmad9&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifaAhmad9&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
