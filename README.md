@@ -102,3 +102,9 @@ I'm always open to interesting projects and collaborations. Feel free to reach o
 ---
 
 Feel free to explore my repositories and connect with me if you want to collaborate on a project or just chat about tech!
+
+---
+
+<img src="https://raw.githubusercontent.com/huzaifaAhmad9/huzaifaAhmad9/output/snake.svg" alt="Snake animation" />
+
+
