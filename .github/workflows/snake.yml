@@ -8,7 +8,7 @@ on:
 
   push:
     branches:
-    - master
+      - main  # Adjust this to your default branch if needed, usually 'main' or 'master'
 
 jobs:
   generate:
@@ -18,14 +18,16 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate snake.svg
+      - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: huzaifaAhmad9  # Your GitHub username
           outputs: dist/snake.svg?palette=github-dark
 
+      - name: List files in dist (debugging)
+        run: ls -alh dist  # To ensure the snake.svg file is generated
 
-      - name: push snake.svg to the output branch
+      - name: Push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
