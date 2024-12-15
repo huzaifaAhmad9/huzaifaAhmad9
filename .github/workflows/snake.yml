@@ -23,6 +23,7 @@ jobs:
         with:
           github_user_name: huzaifaAhmad9  # Your GitHub username
           outputs: dist/snake.svg?palette=github-dark
+          theme: dark
 
       - name: List files in dist (debugging)
         run: ls -alh dist  # To ensure the snake.svg file is generated
