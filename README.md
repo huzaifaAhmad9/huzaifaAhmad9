@@ -68,10 +68,11 @@
 
 ### Areas of Interest
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Development-007ACC?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Science-4CAF50?style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF5733?style=for-the-badge&logo=ai&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend%20Development-007ACC?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Cross%20Platform%20Development-008080?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Science-4CAF50?style=for-the-badge&logo=anaconda&logoColor=white" />
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-FF5733?style=for-the-badge&logo=ai&logoColor=white" />
 </p>
 
 
