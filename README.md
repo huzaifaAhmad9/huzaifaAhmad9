@@ -23,7 +23,7 @@
 
 - 🌱 I’m always expanding my knowledge in cross-platform development and exploring new technologies.
 - 💼 Currently diving deeper into AI/ML and Python to broaden my skill set.
-- 💬 Feel free to ask me about Flutter, Dart, Java/Kotlin, and more.
+- 💬 Feel free to ask me about Flutter, Dart, NodeJs, Java/Kotlin, and more.
 - 📫 You can reach me at: huzaifaahmad4001@gmail.com.
 - ⚡ Fun fact: I'm always up for a challenge and love solving complex problems.
 
