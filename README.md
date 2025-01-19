@@ -90,7 +90,6 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huzaifaAhmad9&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifaAhmad9&layout=compact&theme=radical" alt="Top Languages" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifaAhmad9&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
