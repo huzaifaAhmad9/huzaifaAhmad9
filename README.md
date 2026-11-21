@@ -128,119 +128,41 @@ Feel free to explore my repositories and connect with me if you want to collabor
 
  -->
 
-<img src="./assets/header.svg" width="100%" alt="Huzaifa Ahmad - Mobile Application Developer | AI Engineer" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=38BDF8&center=true&vCenter=true&width=720&height=45&lines=Shipping+production+apps+on+Play+Store+%26+App+Store;Building+RAG+systems+with+hybrid+search+%26+reranking;Native+Android+with+Kotlin+%2B+Jetpack+Compose;Open+to+Mobile+%26+AI+Engineering+roles" alt="typing" />
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=huzaifaAhmad9&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/huzaifaAhmad9?style=for-the-badge&logo=github&color=a78bfa" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge" />
-</p>
+
+
+<img src="./assets/hero.svg" width="100%" alt="Huzaifa Ahmad - Mobile Application Developer and AI Engineer" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/huzaifa-ahmad-b51218298/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:huzaifaahmad4001@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/huzaifaAhmad9?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=huzaifaAhmad9&color=a78bfa&style=for-the-badge&label=VIEWS" />
 </p>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<p align="center"><img src="./assets/terminal.svg" width="90%" alt="Terminal intro" /></p>
 
 <img src="./assets/stats.svg" width="100%" alt="Highlights" />
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-<h2 align="center">⚡ Tech I Work With</h2>
+<h2 align="center">🧠 How I Build</h2>
+<img src="./assets/pipelines.svg" width="100%" alt="RAG pipeline and mobile stack" />
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<h2 align="center">⚡ My Tech Universe</h2>
+<img src="./assets/orbit.svg" width="100%" alt="Tech orbit" />
 <img src="./assets/marquee.svg" width="100%" alt="Skills marquee" />
-
-<h3 align="center">📱 Mobile</h3>
-<p align="center"><img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,androidstudio,js&perline=6" /></p>
-
-<h3 align="center">🤖 AI Engineering</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,pandas,sklearn,tensorflow&perline=6" /><br/><br/>
-  <img src="https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MCP-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Agents-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FAISS-0ea5e9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ChromaDB-0ea5e9?style=for-the-badge" />
-</p>
-
-<h3 align="center">⚙️ Backend & Tools</h3>
-<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase,postgres,sqlite,docker,git,githubactions,postman,figma,jira&perline=13" /></p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 <h2 align="center">🚀 Featured Projects</h2>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📄 DocChat
-
-**Multi-User RAG Document Assistant**
-
-Upload documents & images, get **cited, grounded answers**. Hybrid search (dense + BM25), MMR, cross-encoder reranking, LLM query rewriting, JWT-secured multi-user backend. Evaluated with Hit Rate@k, MRR & LLM-as-a-judge.
-
-`Python` `FastAPI` `Streamlit` `FAISS` `ChromaDB` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏠 EstateAI
-
-**House Value Prediction System**
-
-End-to-end ML pipeline with preprocessing, imputation, encoding, Linear Regression vs Random Forest, 5-fold CV. **R² = 0.8164**, served via REST API.
-
-`Python` `Scikit-learn` `Pandas` `FastAPI` `Joblib`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🚑 Swift Aid
-
-**Emergency Response System**
-
-Real-time pre-hospital platform with GPS hospital routing and live notifications. Cut critical care delays by up to **70%**, triage speed **+50%**.
-
-`Flutter` `Node.js` `Express` `MongoDB` `BLoC`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 Commercial & Client Apps
-
-**Flutter / React Native**
-
-Maintained commercial eCommerce & classified platforms (AdForest), built multi-client apps with auth, real-time dashboards and custom UI libraries.
-
-`Flutter` `React Native` `Node.js` `REST APIs`
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/huzaifaAhmad9?tab=repositories"><img src="./assets/projects.svg" width="100%" alt="Featured projects" /></a>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## 💼 Experience
-
-| Role                            | Company                     | Period              |
-| ------------------------------- | --------------------------- | ------------------- |
-| **Associate Software Engineer** | Glixen Technologies, Lahore | Oct 2025 – Present  |
-| **Flutter Developer Intern**    | Avisa Dev, Lahore           | Nov 2024 – Mar 2025 |
-
-## 📜 Certifications
+<h2 align="center">🛣️ Journey</h2>
+<img src="./assets/timeline.svg" width="100%" alt="Education and experience timeline" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude%20AI%20Engineering-Anthropic-D97757?style=for-the-badge" />
@@ -253,7 +175,6 @@ Maintained commercial eCommerce & classified platforms (AdForest), built multi-c
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 <h2 align="center">📊 GitHub Analytics</h2>
-
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=huzaifaAhmad9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifaAhmad9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
@@ -264,9 +185,8 @@ Maintained commercial eCommerce & classified platforms (AdForest), built multi-c
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifaAhmad9&theme=tokyo-night&hide_border=true&area=true" />
 </p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/huzaifaAhmad9/huzaifaAhmad9/output/snake.svg" width="100%" alt="Snake" />
 </p>
 
-<h3 align="center">🤝 Let's build something together — <a href="mailto:huzaifaahmad4001@gmail.com">huzaifaahmad4001@gmail.com</a></h3>
+<h3 align="center">🤝 Let's build something together · <a href="mailto:huzaifaahmad4001@gmail.com">huzaifaahmad4001@gmail.com</a></h3>
