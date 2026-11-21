@@ -1,4 +1,4 @@
-<!-- # Hello, I'm Huzaifa Ahmad 👋
+# Hello, I'm Huzaifa Ahmad 👋
 ## Passionate Cross-Platform Developer | Flutter Enthusiast | AI/ML Learner
 
 <p align="center">
@@ -126,67 +126,4 @@ Feel free to explore my repositories and connect with me if you want to collabor
   <img src="https://raw.githubusercontent.com/huzaifaAhmad9/huzaifaAhmad9/output/snake.svg" alt="Snake animation" />
 </p>
 
- -->
 
-
-
-
-
-<img src="./assets/hero.svg" width="100%" alt="Huzaifa Ahmad - Mobile Application Developer and AI Engineer" />
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/huzaifa-ahmad-b51218298/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:huzaifaahmad4001@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/huzaifaAhmad9?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=huzaifaAhmad9&color=a78bfa&style=for-the-badge&label=VIEWS" />
-</p>
-
-<img src="./assets/stats.svg" width="100%" alt="Highlights" />
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<h2 align="center">🧠 How I Build</h2>
-<img src="./assets/pipelines.svg" width="100%" alt="RAG pipeline and mobile stack" />
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<h2 align="center">⚡ My Tech Universe</h2>
-<img src="./assets/orbit.svg" width="100%" alt="Tech orbit" />
-<img src="./assets/marquee.svg" width="100%" alt="Skills marquee" />
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<h2 align="center">🚀 Featured Projects</h2>
-<a href="https://github.com/huzaifaAhmad9?tab=repositories"><img src="./assets/projects.svg" width="100%" alt="Featured projects" /></a>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<h2 align="center">🛣️ Journey</h2>
-<img src="./assets/timeline.svg" width="100%" alt="Education and experience timeline" />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude%20AI%20Engineering-Anthropic-D97757?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-Coursera-0056D2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Supervised%20ML-DeepLearning.AI-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Flutter%20Architecture-Udemy-A435F0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python%20for%20AI-Udemy-A435F0?style=for-the-badge" />
-</p>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<h2 align="center">📊 GitHub Analytics</h2>
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=huzaifaAhmad9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifaAhmad9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=huzaifaAhmad9&theme=tokyonight&hide_border=true&background=0d1117" />
-</p>
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifaAhmad9&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/huzaifaAhmad9/huzaifaAhmad9/output/snake.svg" width="100%" alt="Snake" />
-</p>
-
-<h3 align="center">🤝 Let's build something together · <a href="mailto:huzaifaahmad4001@gmail.com">huzaifaahmad4001@gmail.com</a></h3>
